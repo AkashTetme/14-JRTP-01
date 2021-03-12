@@ -1,1 +1,0 @@
-This repository is inheriting master origin main branch.
